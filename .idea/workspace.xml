@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="041f7683-1a0e-4921-b0e6-c8d338bd81ae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aA5tSgtfC9HPtvixHPiPx8Gy2D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/game.py" />
+  </component>
+  <component name="RunManager" selected="Python.client">
+    <configuration name="client" type="PythonConfigurationType" factoryName="Python" singleton="false">
+      <module name="MGame" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="game" type="PythonConfigurationType" factoryName="Python">
+      <module name="MGame" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="network" type="PythonConfigurationType" factoryName="Python">
+      <module name="MGame" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/network.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python">
+      <module name="MGame" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.server" />
+      <item itemvalue="Python.client" />
+      <item itemvalue="Python.network" />
+      <item itemvalue="Python.game" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="041f7683-1a0e-4921-b0e6-c8d338bd81ae" name="Default Changelist" comment="" />
+      <created>1586165771652</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586165771652</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586168651516">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="418" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1586168651516" />
+    <state x="743" y="273" width="424" height="484" key="FileChooserDialogImpl" timestamp="1586168287180">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="743" y="273" width="424" height="484" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1586168287180" />
+    <state width="1897" height="271" key="GridCell.Tab.0.bottom" timestamp="1586190035781">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1897" height="271" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1586190035781" />
+    <state width="1897" height="271" key="GridCell.Tab.0.center" timestamp="1586190035780">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1897" height="271" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1586190035780" />
+    <state width="1897" height="271" key="GridCell.Tab.0.left" timestamp="1586190035780">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1897" height="271" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1586190035780" />
+    <state width="1897" height="271" key="GridCell.Tab.0.right" timestamp="1586190035780">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1897" height="271" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1586190035780" />
+    <state width="937" height="335" key="GridCell.Tab.1.bottom" timestamp="1586190035750">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="937" height="335" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1586190035750" />
+    <state width="937" height="335" key="GridCell.Tab.1.center" timestamp="1586190035749">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="937" height="335" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1586190035749" />
+    <state width="937" height="335" key="GridCell.Tab.1.left" timestamp="1586190035749">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="937" height="335" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1586190035749" />
+    <state width="937" height="335" key="GridCell.Tab.1.right" timestamp="1586190035749">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="937" height="335" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1586190035749" />
+    <state x="616" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1586165807857">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="616" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1586165807857" />
+  </component>
+</project>
